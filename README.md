@@ -1,5 +1,5 @@
 # Food-Assistant-
-A Food Assistant CHAT BOT which provides information on restaurant locations , foods available and food reviews.
+A Food Assistant CHAT BOT which provides information on restaurant locations , foods available and food reviews based on timings 
 
 # Technology used 
 HTML 
