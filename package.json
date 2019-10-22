@@ -1,0 +1,19 @@
+{
+  "name": "food-assistant-",
+  "version": "1.0.0",
+  "description": "A Food Assistant Chant Bot that provides information based on foods and restaurants.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruk05/Food-Assistant-.git"
+  },
+  "author": "Guru prasath.k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruk05/Food-Assistant-/issues"
+  },
+  "homepage": "https://github.com/guruk05/Food-Assistant-#readme"
+}
