@@ -4,4 +4,5 @@ A Food Assistant CHAT BOT which provides information on restaurant locations , f
 # Technology used 
 HTML 
 CSS
+JavaScript
 
