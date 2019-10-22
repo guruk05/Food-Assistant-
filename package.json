@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guruk05/Food-Assistant-/issues"
   },
-  "homepage": "https://github.com/guruk05/Food-Assistant-#readme"
+  "homepage": "https://github.com/guruk05/Food-Assistant-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
