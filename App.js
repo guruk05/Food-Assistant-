@@ -12,6 +12,13 @@ const bodyParserJsonConfig = () => ({
    limit: DEFAULT_BODY_SIZE_LIMIT
 });
 
+app.use(bodyParser.json(bodyParserJsonConfig()));
+
+
+
+
+
+
 
 
 
