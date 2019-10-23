@@ -7,3 +7,9 @@ const assistant = new watson.AssistantV1({
     version:  process.env.WATSON_VERSION
 });
 
+exports.getMessage = body => 
+ new Promise((resolve, reject) => {
+     assistant.message(
+        
+     )
+ })
