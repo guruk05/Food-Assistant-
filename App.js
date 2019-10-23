@@ -14,7 +14,14 @@ const bodyParserJsonConfig = () => ({
 
 app.use(bodyParser.json(bodyParserJsonConfig()));
 
+app.get('/',(req,res) =>
+res.send('Hello World'))
 
+app.post('/ask',ask)
+
+app.listen(3000, () => 
+console.log('You are connected in Port 3000')
+)
 
 
 
